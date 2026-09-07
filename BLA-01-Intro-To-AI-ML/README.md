@@ -1,8 +1,8 @@
-# AWS Certified Machine Learning Associate Part 1
+# CSC-6221-1 BLA - AWS Certified Machine Learning Associate Part 1
 
 ## 📌 BLA Number and Title
 * **BLA Number:** BLA-01
-* **Title:** AWS Certified Machine Learning Associate - Part 1: Understanding the Basics
+* **Title:** AWS Certified Machine Learning Associate - Part 1: AI and ML | Understanding the Basics
 
 ---
 
@@ -32,3 +32,65 @@ The main purpose of this activity is to introduce the core foundations of Artifi
 
 ## 🏗️ Architecture or Design Description
 The architecture of a typical cloud-based Machine Learning pipeline using Amazon SageMaker follows an end-to-end lifecycle:
+
+
+```
+
++------------------+     +-------------------+     +---------------------+     +--------------------+
+|   Prepare &      | --> |  Build & Train    | --> |  Tune & Evaluate    | --> |  Deploy at Scale   |
+|   Label Data     |     |  Models           |     |  Performance        |     |  (Endpoint API)    |
++------------------+     +-------------------+     +---------------------+     +--------------------+
+^                                                                                |
++-------------------------- Continuous Retraining Loop --------------------------+
+
+```
+
+---
+
+## 📋 Major Steps Completed
+1. Defined the fundamental definitions and real-world applications of Artificial Intelligence.
+2. Differentiated Machine Learning workflows from traditional rule-based software engineering.
+3. Categorized the three core types of ML: Supervised, Unsupervised, and Reinforcement Learning.
+4. Analyzed industry-specific use cases across Healthcare, Finance, Retail, Transportation, and Manufacturing.
+5. Examined Generative AI capabilities and its impact on the modern technology landscape.
+6. Mapped end-to-end ML lifecycle steps directly to AWS infrastructure and Amazon SageMaker capabilities.
+
+---
+
+## ⚠️ Problems or Errors Encountered
+* **Authentication Error on Git Push:** When attempting to push local changes to GitHub over HTTPS using standard account password credentials, Git returned an authentication failure:
+  `remote: Invalid username or token. Password authentication is not supported for Git operations.`
+
+---
+
+## 🔧 How Those Problems Were Resolved
+* **Personal Access Token (PAT) Implementation:** Generated a classic Personal Access Token with `repo` permissions from GitHub Developer Settings and used the token string in place of the account password during terminal authentication.
+
+---
+
+## 📊 Results or Output
+* Completed presentation deck summarizing the core concepts for Part 1 of the AWS Certified Machine Learning Associate module.
+* Structured study notes covering key ML paradigms, workflows, and AWS SageMaker integration.
+* Fully configured and synchronized GitHub repository with project documentation.
+
+---
+
+## 🤔 Lessons Learned / Reflection
+Understanding the transition from traditional rule-based logic to data-driven Machine Learning is foundational for designing modern cloud architectures. Leveraging managed services like Amazon SageMaker significantly reduces operational overhead by eliminating the need to provision and manage physical hardware for model training and deployment.
+
+---
+
+## 🔗 YouTube Link
+* *https://www.youtube.com/watch?v=ObG43JXZj6c*
+
+---
+
+## 💼 LinkedIn Post Link
+* *https://www.linkedin.com/feed/update/urn:li:activity:7502506242817445888/*
+
+---
+
+## 📚 References or Resources Used
+* AWS Certified Machine Learning Associate Course Materials
+* AWS Documentation: [Amazon SageMaker Overview](https://aws.amazon.com/sagemaker/)
+* Presentation Deck: *AI & Machine Learning - Understanding the Basics (Part 1)*
