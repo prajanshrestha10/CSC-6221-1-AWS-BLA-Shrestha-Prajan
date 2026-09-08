@@ -63,8 +63,8 @@ Understanding the underlying access protocol (REST vs. Block vs. NFS) is crucial
 ---
 
 ## 🔗 Project Links
-* **YouTube Video:** [Insert Link Here]
-* **LinkedIn Post:** [Insert Link Here]
+* **YouTube Video:** https://youtu.be/nHEgjiWxf1k
+* **LinkedIn Post:** https://www.linkedin.com/feed/update/urn:li:activity:7502890596068429824/
 
 ---
 
