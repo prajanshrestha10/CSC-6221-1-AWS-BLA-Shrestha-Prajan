@@ -36,6 +36,10 @@ The main purpose of this activity is to explore real-time streaming data ingesti
 
 ## 🏗️ Architecture or Design Description
 The real-time streaming pipeline follows an automated ingestion, processing, and delivery workflow:
+
+
+```
+
 +--------------------------+
 |      Data Sources        |
 | * Kinesis Data Streams   |
@@ -60,14 +64,13 @@ v                               v                               v
 |   (Data Lake)    |           |   (Warehouse)    |           | (Search/Splunk)  |
 +------------------+           +------------------+           +------------------+
 
+```
+
 ---
 
 ## 📋 Major Steps Completed
 1. Evaluated real-time streaming mechanics and compared Amazon Data Firehose against Kinesis Data Streams.
-2. Configured stream ingestion sources including CloudWatch Logs and simulated IoT device streams.
-3. Setup an inline serverless transformation step using AWS Lambda for record reformatting.
-4. Configured buffer size and buffer interval conditions to balance latency and batch optimization.
-5. Configured automatic data format conversion from incoming raw JSON into Apache Parquet before S3 storage delivery.
+2. Configured automatic data format conversion from incoming raw JSON into Apache Parquet before S3 storage delivery.
 
 ---
 
@@ -85,7 +88,6 @@ v                               v                               v
 
 ## 📊 Results or Output
 * Fully automated, serverless streaming ETL pipeline delivering compressed Parquet files directly to Amazon S3.
-* Reduced operational overhead with zero server provisioning or consumer code management.
 
 ---
 
