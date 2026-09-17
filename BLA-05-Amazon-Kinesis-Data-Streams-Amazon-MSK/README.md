@@ -112,12 +112,12 @@ Choosing between Kinesis Data Streams and Amazon MSK depends on team expertise, 
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/CO10HtXQM2c*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7506453174115966977/*
 
 ---
 
