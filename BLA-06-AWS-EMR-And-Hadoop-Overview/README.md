@@ -105,12 +105,12 @@ Amazon EMR eliminates the high CapEx and complex operational overhead associated
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/SL8cGCKrsDo*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7506750546758791168/*
 
 ---
 
