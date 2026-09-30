@@ -41,6 +41,7 @@ The main purpose of this activity is to examine Apache Spark as a high-performan
 ## 🏗️ Architecture or Design Description
 The architectural topology shows how EMR orchestrates Apache Spark components over decoupled Amazon S3 storage and managed AWS catalog services:
 
+```
 +-----------------------------------------------------------------------------------+
 |                               AMAZON EMR CLUSTER                                  |
 |                                                                                   |
@@ -71,6 +72,7 @@ The architectural topology shows how EMR orchestrates Apache Spark components ov
 |          AWS GLUE DATA CATALOG        |   |       DECOUPLED STORAGE (EMRFS)       |
 |     * Central Schema / Metadata       |   |       Amazon S3 (Data Lake)           |
 +---------------------------------------+   +---------------------------------------+
+```
 
 ---
 
