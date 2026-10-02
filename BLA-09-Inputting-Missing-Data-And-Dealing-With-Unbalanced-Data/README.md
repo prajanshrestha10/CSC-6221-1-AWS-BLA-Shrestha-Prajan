@@ -109,12 +109,12 @@ High model accuracy is often misleading when working with real-world datasets af
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/PQVUJU4hRrY*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7511631414652518402/*
 
 ---
 
