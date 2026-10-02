@@ -107,12 +107,12 @@ More features do not automatically equate to better models. Unchecked feature cr
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/9_avTwXQvPA*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7511582046247387136/*
 
 ---
 
