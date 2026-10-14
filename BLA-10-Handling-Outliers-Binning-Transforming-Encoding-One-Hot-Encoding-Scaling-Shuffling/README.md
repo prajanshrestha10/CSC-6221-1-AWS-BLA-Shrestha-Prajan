@@ -116,12 +116,12 @@ Data preparation is not a rigid checklist but a thoughtful, sequential process. 
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/Un2YOX6TyrM*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7515965883303944192/*
 
 ---
 
