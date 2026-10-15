@@ -103,7 +103,7 @@ Mastering the core SageMaker workflow requires understanding how S3 ties indepen
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *https://www.linkedin.com/posts/prajan-shrestha-7858a11b4_excited-to-share-part-12-of-my-aws-machine-share-7516159870363131904-dJUD/*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7516345014374035456/*
 
 ---
 
