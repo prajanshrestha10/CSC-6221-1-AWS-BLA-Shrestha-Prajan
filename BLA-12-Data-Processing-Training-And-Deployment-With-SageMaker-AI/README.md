@@ -98,12 +98,12 @@ Mastering the core SageMaker workflow requires understanding how S3 ties indepen
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/Gy30wD0FycE*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/posts/prajan-shrestha-7858a11b4_excited-to-share-part-12-of-my-aws-machine-share-7516159870363131904-dJUD/*
 
 ---
 
