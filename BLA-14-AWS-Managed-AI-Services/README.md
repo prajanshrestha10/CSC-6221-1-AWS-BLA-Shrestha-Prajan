@@ -99,12 +99,12 @@ AWS Managed AI services remove the heavy lifting of building, training, and main
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/wDIeaFD77aY*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7520922225793794049/*
 
 ---
 
