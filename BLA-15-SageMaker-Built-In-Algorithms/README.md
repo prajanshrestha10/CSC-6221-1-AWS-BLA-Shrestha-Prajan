@@ -115,12 +115,12 @@ SageMaker built-in algorithms drastically accelerate the machine learning develo
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/PfiWCG7Ugj4*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7521220152785297409/*
 
 ---
 
