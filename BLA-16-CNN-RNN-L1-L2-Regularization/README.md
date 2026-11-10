@@ -102,12 +102,12 @@ Choosing the right neural network architecture depends entirely on data structur
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/0Jb3nkLDHqg*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7525722539092758528/*
 
 ---
 
