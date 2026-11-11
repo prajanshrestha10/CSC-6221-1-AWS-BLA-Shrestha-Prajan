@@ -107,12 +107,12 @@ Accuracy alone is a dangerous metric for evaluating classifiers, especially when
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://youtu.be/7B8bt5w6fqA*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7526129865029488640/*
 
 ---
 
