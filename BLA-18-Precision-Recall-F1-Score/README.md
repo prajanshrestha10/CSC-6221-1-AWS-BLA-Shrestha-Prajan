@@ -123,12 +123,12 @@ Precision and Recall exist in a natural trade-off driven by classification thres
 ---
 
 ## 🔗 YouTube Link(s)
-* *[Insert your YouTube presentation/lab video link here]*
+* *https://www.youtube.com/watch?v=eBx0sQrXvis*
 
 ---
 
 ## 💼 LinkedIn Post Link(s)
-* *[Insert your LinkedIn project/reflection post link here]*
+* *https://www.linkedin.com/feed/update/urn:li:activity:7526515360624201728/*
 
 ---
 
